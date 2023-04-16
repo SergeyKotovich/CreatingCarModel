@@ -42,6 +42,8 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Car.cs" />
+     <Compile Include="Assets\Scripts\CarSpawner.cs" />
+     <Compile Include="Assets\Scripts\Camera.cs" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity 2022.1.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
